@@ -1,0 +1,9 @@
+{
+    "location": "./",
+    "arguments": [
+        {
+            "description": "Test Argument",
+            "default": "default string"
+        }
+    ]
+}
