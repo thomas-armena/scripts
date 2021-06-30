@@ -1,0 +1,9 @@
+{
+    "location": "./",
+    "arguments": [
+        {
+            "description": "Commit Message",
+            "default": "added feature"
+        }
+    ]
+}
